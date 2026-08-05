@@ -1,3 +1,19 @@
+
+@font-face {
+    font-family: "Vampiro" ;
+    src: url(vampire_wars/Vampire\ Wars.ttf);
+    
+}
+
+
+
+#Tony {
+
+    font-family: "Vampiro";
+    
+}
+
+
 #p1 {
 
     color: white;
@@ -9,7 +25,7 @@
 
 * {
 
-
+    
    box-sizing: border-box;
 
 }
@@ -17,6 +33,6 @@
 body {
       background-color: rgb(134, 9, 9);
       
-
+      
 
 }
